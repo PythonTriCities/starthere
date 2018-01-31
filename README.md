@@ -51,7 +51,7 @@ Use [SemVer](http://semver.org/) for versioning. For the versions available, see
 
 * **John M** - *Initial work* - [TechSolX](https://github.com/techsolx)
 
-See also the list of [contributors](https://github.com/PythonTriCities/starthere.git/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/PythonTriCities/starthere/graphs/contributors) who participated in this project.
 
 ## License
 
