@@ -2,7 +2,7 @@
 
 This is a simple demo to make sure our new users have Python set up and working
 
-## Getting Started
+## Getting Started<- Doesn't work for Windows
 
 1. Create the virtual environment if it doesn\'t exist:
 
@@ -62,4 +62,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Help from the internets, stackoverflow, users group members, etc...
 
 ## Test your git ability by adding your Github link here:
+##Amy wuz here
 
